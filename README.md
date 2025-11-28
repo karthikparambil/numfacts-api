@@ -1,4 +1,4 @@
-# numfactsapi
+# Number Trivia api
 
 This project provides a simple Flask-based API deployed on Vercel using serverless functions.
 
