@@ -11,6 +11,8 @@ https://numfactsapi.vercel.app/number/1
 
 **Response:**
 ```json
-fact: "1 is the first non-zero positive integer."
-number:	1
+{
+    "fact": "1 is the first non-zero positive integer.",
+    "number": 1
+}
 ```
