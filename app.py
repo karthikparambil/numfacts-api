@@ -72,7 +72,7 @@ def index():
                 "description": "Returns available API endpoints"
             },
             {
-                "path": "/number/<int:number>",
+                "path": "/number/<number>",
                 "method": "GET",
                 "description": "Returns interesting facts about the given number"
             }
